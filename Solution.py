@@ -1,2 +1,2 @@
 import RMXXD
-
+RMXXD.RM()
